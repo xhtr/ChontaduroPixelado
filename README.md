@@ -1,6 +1,10 @@
 # ChontaduroPixelado
 Game Jam focus on horror
 
+## Game Story:
+
+....TBD
+
 ## File structure for the project:
 
 ```
@@ -49,4 +53,29 @@ Game Jam focus on horror
 
 
 ### Contriburtors
-[![](https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false)](https://github.com/remarkablemark/html-react-parser/graphs/contributors)
+
+<table>
+		<tr>
+			<td align="center">
+				<a href="https://github.com/ReyPena">
+                    <img alt="" src="https://avatars.githubusercontent.com/u/7043703?v=4" width="100px;">
+                    <br>
+                    <sub><b>Rey Pena (ReyPena)</b></sub>
+                </a>
+			</td>
+			<td align="center">
+                <a href="https://github.com/xhtr">
+                    <img alt="" src="https://avatars.githubusercontent.com/u/8966030?v=4" width="100px;">
+                    <br>
+                    <sub><b>Andres Reina (xhtr)</b></sub>
+                </a>
+			</td>
+			<td align="center">
+				<a href="https://github.com/Daniet">
+                    <img alt="" src="https://avatars.githubusercontent.com/u/5108216?v=4" width="100px;">
+                    <br>
+                    <sub><b>Daniel Pinto (Daniet)</b></sub>
+                </a>
+			</td>
+		</tr>
+	</table>
