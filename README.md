@@ -8,7 +8,7 @@ Game Jam focus on horror
 ## File structure for the project:
 
 ```
-/
+game/
     entities/
         player/
             player.tscn
@@ -48,7 +48,7 @@ Game Jam focus on horror
                  [...]
              dungeon.tscn
              [...]
-    /dist #for binary output and such!
+dist/ #for binary output and such!
 ```
 
 
